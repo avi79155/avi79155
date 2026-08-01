@@ -226,8 +226,8 @@ I'm always excited to connect with fellow developers, AI enthusiasts, and potent
 [![Twitter/X](https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/your_handle)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/avi79155)
 
-**Email:** your.email@gmail.com  
-**Location:** Tamil Nadu, India 🇮🇳  
+**Email:** avi79155@gamil,com
+**Location:** cheanni,Tamil Nadu, India 🇮🇳  
 **Status:** 🟢 Open to AI Engineering Internships & Collaborations
 
 </div>
