@@ -122,9 +122,6 @@ My mission is to **become a world-class AI Engineer, Computer Vision Engineer, a
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=avi79155&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=avi79155&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=c9d1d9&layout=compact)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=avi79155&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF0000&currStreakNum=00D9FF)
 
