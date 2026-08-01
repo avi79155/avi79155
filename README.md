@@ -140,7 +140,7 @@ My mission is to **become a world-class AI Engineer, Computer Vision Engineer, a
 
 <div align="center">
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=avi79155&theme=tokyonight&no-frame=true&column=3&margin-w=15&margin-h=15)
+
 
 </div>
 
